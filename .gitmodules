@@ -1,0 +1,6 @@
+[submodule "Tutorial_1"]
+	path = Tutorial_1
+	url = git@github.com:CHABBEH-Aymen/Tutorial_1.git
+[submodule "Tutorial_2"]
+	path = Tutorial_2
+	url = git@github.com:CHABBEH-Aymen/Tutorial_2.git
