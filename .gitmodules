@@ -4,3 +4,6 @@
 [submodule "Tutorial_2"]
 	path = Tutorial_2
 	url = git@github.com:CHABBEH-Aymen/Tutorial_2.git
+[submodule "kotlin_week_3"]
+	path = kotlin_week_3
+	url = git@github.com:CHABBEH-Aymen/kotlin_week_3.git
